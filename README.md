@@ -45,7 +45,7 @@ npm install body-parser
 const bodyParser = require('body-parser');
 ```
 3. Body parser middleware has lots of different methods which we can use in our express application, e.g.
-3. a. bodyParser.json(): Is used to parse what ever a request holds on it is body into a JSON object, then replaces the request body with the new data.
+3. a. bodyParser.json(): Is used to parse whatever data streams request hold on it is body into one pack of data, then replaces the request body with the new data.
 3. b. bodyParser.urlencoded(): Accepts only request body that is encoded with (UTF-8) and transfers it to a Key-Value object replacing the request body.
 3. c. Implementing:
 ``` javascript
