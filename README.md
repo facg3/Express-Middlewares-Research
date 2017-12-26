@@ -58,7 +58,7 @@ app.use(urlencoded);
 // new OBJECT TYPE data are stored in (request.body)
 ```
 
-References : 
-using middleware : http://expressjs.com/en/guide/using-middleware.html
-writing middleware : https://expressjs.com/en/guide/writing-middleware.html
-modules midlleware : https://expressjs.com/en/resources/middleware.html
+References :   
+using middleware : http://expressjs.com/en/guide/using-middleware.html   
+writing middleware : https://expressjs.com/en/guide/writing-middleware.html   
+modules midlleware : https://expressjs.com/en/resources/middleware.html   
